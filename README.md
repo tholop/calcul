@@ -1,2 +1,3 @@
-# calcul
-Feuilles de calcul rapide niveau MPSI
+# Exercices de calcul rapide
+
+Licence Creative Commons, auteur http://maquisdoc.net/
